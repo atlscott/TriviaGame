@@ -1,0 +1,37 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	text-align: center;
+	background-image: url("../images/sportsbackground.jpg");
+}
+
+#mainSec{
+	background: white;
+	width: 650px;
+	height: 400px;	
+	margin-left: 400px;
+	margin-top: 100px;	
+	opacity: 0.9;
+	border-radius: 5px;
+}
+
+#heading{
+	padding-top: 5px;
+}
+
+#questions{
+	padding-right: 5px;
+	padding-left: 5px;
+}
+
+#timer {
+	font-size: 22px;
+}
+
+#result{
+	background: white;
+	opacity: 0.9;
+	font-size: 30px;
+}
